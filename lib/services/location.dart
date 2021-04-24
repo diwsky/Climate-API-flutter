@@ -12,6 +12,7 @@ class Location {
       latitude = position.latitude;
     } catch (e) {
       print(e);
+      print(e);
     }
   }
 }
